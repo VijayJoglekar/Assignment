@@ -15,6 +15,8 @@
 - **Database**: SQLite  
 
 
+### Running the Backend
+```bash
 cd backend
 # Activate your virtual environment
 source venv/Scripts/activate  # Windows
@@ -24,7 +26,7 @@ source venv/bin/activate      # Mac/Linux
 pip install -r requirements.txt
 python manage.py runserver
 
-
+```
 ### Running the Frontend
 
 ```bash
